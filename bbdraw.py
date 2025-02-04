@@ -6,12 +6,12 @@ import json
 
 # ASSUMPTION: remapping.json and the png images are in the current folder
 
-#image_name = sys.argv[1] 
-#block_id = sys.argv[2] 
+image_name = sys.argv[1] 
+block_id = sys.argv[2] 
 
 # for testing
-image_name = "B31-A41-C25-1523029167770_31-new-ids.png"
-block_id = "b6"
+#image_name = "B31-A41-C25-1523029167770_31-new-ids.png"
+#block_id = "b6"
 
 # load bounding box coords
 json_data = json.load(open("remapping.json","r"))
