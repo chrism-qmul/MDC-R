@@ -4,7 +4,7 @@ This repository contains:
 
 1) README.md - this file with instructions
 2) a link to download the file with regenerated images with new ids -- [link here](https://takelab.fer.hr/data/sodestreamtmp/new-images.tar.gz)
-3) remapping.json - a file mapping old ids to new ids for those markables that referred to blocks
+3) remapping.json - a file mapping old ids to new ids for those markables that referred to blocks (also contains bounding box info and other metadata)
 4) bbdraw.py - a script to draw/check bounding boxes
 
 ### Instructions:
