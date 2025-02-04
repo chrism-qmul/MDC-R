@@ -1,4 +1,4 @@
-## MC corpus with revised id's and bounding boxes
+## MC corpus with revised ids and bounding boxes
 
 This repository contains:
 
