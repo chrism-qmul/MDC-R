@@ -41,6 +41,6 @@ This repository contains:
   - (not very important) COORDS count the positive direction as 0,1,2 ... and the negative direction -1, -2 ... (so, for example a block that is at +2 is 2 empty spaces away from the corresponding axis, the block at -2 is 1 empty space away)
 
 ### TLDR:
-- for any markable in the phrase.xml files you can look it up in remapping.json (using experiment_id and markable_id) to get its corresponding (1) new id, (2) corresponding png image with the new id drawn, (3) bounding box (in that new image) for each of its blocks
+- for any markable in the phrase.xml files you can look it up in remapping.json (using experiment_id and markable_id) to get its corresponding (1) new id, (2) corresponding png image with the new id drawn, (3) the spatial coordinates and bounding box (in that new image) for each of its blocks
 
    
