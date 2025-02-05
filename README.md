@@ -34,7 +34,7 @@ This repository contains:
   - any markable that is a reference in the "...*phrase.xml" files should have an entry in remapping.json (EXPERIMENT_ID and MARKABLE_ID should uniquely identify its entry)
   - special markables like "architect" will have a BLOCK_LIST be a string
   - some markables can have an empty BLOCK_LIST (e.g., if all blocks are either unresolvable or invisible)
-  - blocks that are ambiguous in the coordinate mapping (letter mapping heuristic failed) are simpliy omitted - about 25 markables have this issue, next version will fix this
+  - blocks that are ambiguous in the coordinate mapping (letter mapping heuristic failed) are simpliy omitted - about 25 markables have this issue (UPDATE: this has been fixed)
   - invisibility is encoded either explicitly as a special markable with BLOCK_LIST = "to_be_remove:invisible" or implicitly by omitting those blocks of the markable that are out of view (but those that are in view are included normally)
   - BBOX is a string, you need to "eval" it to get the tuple back
   - a bounding box for the entire markable can be generated from individual bounding boxes of it's constituent blocks
