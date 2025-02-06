@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE markables SYSTEM "markables.dtd">
+<markables xmlns="www.eml.org/NameSpaces/action">
+<markable id="markable_1" span="word_35" world_state="s2"  imageview="images/b15-a38-c1-1523399524945_7.png"  mmax_level="action"  order_id="1" />
+<markable id="markable_0" span="word_32" world_state="s1"  imageview="images/b15-a38-c1-1523399524945_5.png"  mmax_level="action"  order_id="0" />
+<markable id="markable_3" span="word_37" world_state="s4"  imageview="images/b15-a38-c1-1523399524945_9.png"  mmax_level="action"  order_id="3" />
+<markable id="markable_2" span="word_36" world_state="s3"  imageview="images/b15-a38-c1-1523399524945_8.png"  mmax_level="action"  order_id="2" />
+<markable id="markable_5" span="word_39" world_state="s6"  imageview="images/b15-a38-c1-1523399524945_11.png"  mmax_level="action"  order_id="5" />
+<markable id="markable_4" span="word_38" world_state="s5"  imageview="images/b15-a38-c1-1523399524945_10.png"  mmax_level="action"  order_id="4" />
+<markable id="markable_7" span="word_41" world_state="s8"  imageview="images/b15-a38-c1-1523399524945_13.png"  mmax_level="action"  order_id="7" />
+<markable id="markable_6" span="word_40" world_state="s7"  imageview="images/b15-a38-c1-1523399524945_12.png"  mmax_level="action"  order_id="6" />
+<markable id="markable_10" span="word_59" world_state="s11"  imageview="images/b15-a38-c1-1523399524945_18.png"  mmax_level="action"  order_id="10" />
+<markable id="markable_32" span="word_149" world_state="s33"  imageview="images/b15-a38-c1-1523399524945_49.png"  mmax_level="action"  order_id="32" />
+<markable id="markable_31" span="word_148" world_state="s32"  imageview="images/b15-a38-c1-1523399524945_48.png"  mmax_level="action"  order_id="31" />
+<markable id="markable_30" span="word_147" world_state="s31"  imageview="images/b15-a38-c1-1523399524945_47.png"  mmax_level="action"  order_id="30" />
+<markable id="markable_14" span="word_63" world_state="s15"  imageview="images/b15-a38-c1-1523399524945_22.png"  mmax_level="action"  order_id="14" />
+<markable id="markable_36" span="word_153" world_state="s37"  imageview="images/b15-a38-c1-1523399524945_53.png"  mmax_level="action"  order_id="36" />
+<markable id="markable_13" span="word_62" world_state="s14"  imageview="images/b15-a38-c1-1523399524945_21.png"  mmax_level="action"  order_id="13" />
+<markable id="markable_35" span="word_152" world_state="s36"  imageview="images/b15-a38-c1-1523399524945_52.png"  mmax_level="action"  order_id="35" />
+<markable id="markable_12" span="word_61" world_state="s13"  imageview="images/b15-a38-c1-1523399524945_20.png"  mmax_level="action"  order_id="12" />
+<markable id="markable_11" span="word_60" world_state="s12"  imageview="images/b15-a38-c1-1523399524945_19.png"  mmax_level="action"  order_id="11" />
+<markable id="markable_33" span="word_150" world_state="s34"  imageview="images/b15-a38-c1-1523399524945_50.png"  mmax_level="action"  order_id="33" />
+<markable id="markable_18" span="word_96" world_state="s19"  imageview="images/b15-a38-c1-1523399524945_30.png"  mmax_level="action"  order_id="18" />
+<markable id="markable_17" span="word_68" world_state="s18"  imageview="images/b15-a38-c1-1523399524945_25.png"  mmax_level="action"  order_id="17" />
+<markable id="markable_39" span="word_182" world_state="s40"  imageview="images/b15-a38-c1-1523399524945_59.png"  mmax_level="action"  order_id="39" />
+<markable id="markable_16" span="word_65" world_state="s17"  imageview="images/b15-a38-c1-1523399524945_24.png"  mmax_level="action"  order_id="16" />
+<markable id="markable_38" span="word_155" world_state="s39"  imageview="images/b15-a38-c1-1523399524945_55.png"  mmax_level="action"  order_id="38" />
+<markable id="markable_15" span="word_64" world_state="s16"  imageview="images/b15-a38-c1-1523399524945_23.png"  mmax_level="action"  order_id="15" />
+<markable id="markable_37" span="word_154" world_state="s38"  imageview="images/b15-a38-c1-1523399524945_54.png"  mmax_level="action"  order_id="37" />
+<markable id="markable_19" span="word_97" world_state="s20"  imageview="images/b15-a38-c1-1523399524945_31.png"  mmax_level="action"  order_id="19" />
+<markable id="markable_9" span="word_58" world_state="s10"  imageview="images/b15-a38-c1-1523399524945_17.png"  mmax_level="action"  order_id="9" />
+<markable id="markable_8" span="word_57" world_state="s9"  imageview="images/b15-a38-c1-1523399524945_16.png"  mmax_level="action"  order_id="8" />
+<markable id="markable_21" span="word_99" world_state="s22"  imageview="images/b15-a38-c1-1523399524945_33.png"  mmax_level="action"  order_id="21" />
+<markable id="markable_20" span="word_98" world_state="s21"  imageview="images/b15-a38-c1-1523399524945_32.png"  mmax_level="action"  order_id="20" />
+<markable id="markable_41" span="word_206" world_state="s42"  imageview="images/b15-a38-c1-1523399524945_63.png"  mmax_level="action"  order_id="41" />
+<markable id="markable_40" span="word_183" world_state="s41"  imageview="images/b15-a38-c1-1523399524945_60.png"  mmax_level="action"  order_id="40" />
+<markable id="markable_25" span="word_103" world_state="s26"  imageview="images/b15-a38-c1-1523399524945_37.png"  mmax_level="action"  order_id="25" />
+<markable id="markable_24" span="word_102" world_state="s25"  imageview="images/b15-a38-c1-1523399524945_36.png"  mmax_level="action"  order_id="24" />
+<markable id="markable_23" span="word_101" world_state="s24"  imageview="images/b15-a38-c1-1523399524945_35.png"  mmax_level="action"  order_id="23" />
+<markable id="markable_22" span="word_100" world_state="s23"  imageview="images/b15-a38-c1-1523399524945_34.png"  mmax_level="action"  order_id="22" />
+<markable id="markable_29" span="word_146" world_state="s30"  imageview="images/b15-a38-c1-1523399524945_46.png"  mmax_level="action"  order_id="29" />
+<markable id="markable_28" span="word_145" world_state="s29"  imageview="images/b15-a38-c1-1523399524945_45.png"  mmax_level="action"  order_id="28" />
+<markable id="markable_27" span="word_128" world_state="s28"  imageview="images/b15-a38-c1-1523399524945_42.png"  mmax_level="action"  order_id="27" />
+<markable id="markable_26" span="word_104" world_state="s27"  imageview="images/b15-a38-c1-1523399524945_38.png"  mmax_level="action"  order_id="26" />
+</markables>

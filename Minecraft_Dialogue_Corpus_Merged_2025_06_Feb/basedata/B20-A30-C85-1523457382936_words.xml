@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE words SYSTEM "words.dtd">
+<words>
+  <word id="word_0">Mission</word>
+  <word id="word_1">has</word>
+  <word id="word_2">started</word>
+  <word id="word_3">.</word>
+  <word id="word_4">how</word>
+  <word id="word_5">much</word>
+  <word id="word_6">space</word>
+  <word id="word_7">for</word>
+  <word id="word_8">this</word>
+  <word id="word_9">one</word>
+  <word id="word_10">?</word>
+  <word id="word_11">build</word>
+  <word id="word_12">a</word>
+  <word id="word_13">stack</word>
+  <word id="word_14">of</word>
+  <word id="word_15">4</word>
+  <word id="word_16">red</word>
+  <word id="word_17">blocks</word>
+  <word id="word_18">leaving</word>
+  <word id="word_19">5</word>
+  <word id="word_20">spaces</word>
+  <word id="word_21">of</word>
+  <word id="word_22">room</word>
+  <word meta="True" id="word_23">added red@1,0,-2</word>
+  <word meta="True" id="word_24">added red@1,1,-2</word>
+  <word meta="True" id="word_25">added red@1,2,-2</word>
+  <word meta="True" id="word_26">added red@1,3,-2</word>
+  <word id="word_27">that</word>
+  <word id="word_28">s</word>
+  <word id="word_29">5</word>
+  <word id="word_30">red</word>
+  <word id="word_31">blocks</word>
+  <word id="word_32">.</word>
+  <word id="word_33">delete</word>
+  <word id="word_34">the</word>
+  <word id="word_35">top</word>
+  <word id="word_36">one</word>
+  <word meta="True" id="word_37">added red@1,4,-2</word>
+  <word meta="True" id="word_38">removed red@1,4,-2</word>
+  <word id="word_39">alrighty</word>
+  <word id="word_40">ok</word>
+  <word id="word_41">now</word>
+  <word id="word_42">add</word>
+  <word id="word_43">a</word>
+  <word id="word_44">yellow</word>
+  <word id="word_45">block</word>
+  <word id="word_46">on</word>
+  <word id="word_47">top</word>
+  <word meta="True" id="word_48">added yellow@1,4,-2</word>
+  <word id="word_49">on</word>
+  <word id="word_50">the</word>
+  <word id="word_51">top</word>
+  <word id="word_52">red</word>
+  <word id="word_53">block</word>
+  <word id="word_54">,</word>
+  <word id="word_55">build</word>
+  <word id="word_56">2</word>
+  <word id="word_57">yello</word>
+  <word id="word_58">block</word>
+  <word id="word_59">out</word>
+  <word id="word_60">from</word>
+  <word id="word_61">the</word>
+  <word id="word_62">sides</word>
+  <word meta="True" id="word_63">added yellow@0,3,-2</word>
+  <word meta="True" id="word_64">added yellow@-1,3,-2</word>
+  <word meta="True" id="word_65">added yellow@2,3,-2</word>
+  <word meta="True" id="word_66">added yellow@3,3,-2</word>
+  <word id="word_67">is</word>
+  <word id="word_68">this</word>
+  <word id="word_69">any</word>
+  <word id="word_70">particular</word>
+  <word id="word_71">shape</word>
+  <word id="word_72">?</word>
+  <word id="word_73">not</word>
+  <word id="word_74">really</word>
+  <word id="word_75">that</word>
+  <word id="word_76">i</word>
+  <word id="word_77">can</word>
+  <word id="word_78">think</word>
+  <word id="word_79">of</word>
+  <word id="word_80">now</word>
+  <word id="word_81">add</word>
+  <word id="word_82">one</word>
+  <word id="word_83">yello</word>
+  <word id="word_84">block</word>
+  <word id="word_85">to</word>
+  <word id="word_86">the</word>
+  <word id="word_87">bottom</word>
+  <word id="word_88">of</word>
+  <word id="word_89">the</word>
+  <word id="word_90">furthest</word>
+  <word id="word_91">out</word>
+  <word id="word_92">yellow</word>
+  <word id="word_93">block</word>
+  <word id="word_94">furthest</word>
+  <word id="word_95">out</word>
+  <word id="word_96">?</word>
+  <word id="word_97">on</word>
+  <word id="word_98">both</word>
+  <word id="word_99">sides</word>
+  <word id="word_100">?</word>
+  <word id="word_101">yes</word>
+  <word meta="True" id="word_102">added yellow@3,2,-2</word>
+  <word meta="True" id="word_103">added yellow@-1,2,-2</word>
+  <word id="word_104">ok</word>
+  <word id="word_105">now</word>
+  <word id="word_106">delete</word>
+  <word id="word_107">the</word>
+  <word id="word_108">one</word>
+  <word id="word_109">that</word>
+  <word id="word_110">is</word>
+  <word id="word_111">on</word>
+  <word id="word_112">top</word>
+  <word id="word_113">of</word>
+  <word id="word_114">the</word>
+  <word id="word_115">blocks</word>
+  <word id="word_116">you</word>
+  <word id="word_117">just</word>
+  <word id="word_118">placed</word>
+  <word id="word_119">.</word>
+  <word id="word_120">so</word>
+  <word id="word_121">the</word>
+  <word id="word_122">furthest</word>
+  <word id="word_123">ones</word>
+  <word id="word_124">out</word>
+  <word id="word_125">on</word>
+  <word id="word_126">top</word>
+  <word meta="True" id="word_127">removed yellow@3,3,-2</word>
+  <word id="word_128">like</word>
+  <word id="word_129">this</word>
+  <word id="word_130">?</word>
+  <word id="word_131">yes</word>
+  <word meta="True" id="word_132">removed yellow@-1,3,-2</word>
+  <word id="word_133">that</word>
+  <word id="word_134">s</word>
+  <word id="word_135">it</word>
+</words>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE markables SYSTEM "markables.dtd">
+<markables xmlns="www.eml.org/NameSpaces/utterance">
+<markable id="markable_8" span="word_60" world_state="s12"  dialogueamr="assertion"  imageview="images/b4-a19-c8-1522882559576_19.png"  mmax_level="utterance"  order_id="8"  participant="builder" />
+<markable id="markable_1" span="word_4..word_8" world_state="s0"  dialogueamr="command"  imageview="images/b4-a19-c8-1522882559576_1.png"  mmax_level="utterance"  order_id="1"  participant="architect" />
+<markable id="markable_0" span="word_0..word_3" world_state="s0"  dialogueamr="assertion"  imageview="images/b4-a19-c8-1522882559576_0.png"  mmax_level="utterance"  order_id="0"  participant="builder" />
+<markable id="markable_3" span="word_21..word_24" world_state="s0"  dialogueamr="assertion"  imageview="images/b4-a19-c8-1522882559576_3.png"  mmax_level="utterance"  order_id="3"  participant="architect" />
+<markable id="markable_2" span="word_9..word_20" world_state="s0"  dialogueamr="command"  imageview="images/b4-a19-c8-1522882559576_2.png"  mmax_level="utterance"  order_id="2"  participant="architect" />
+<markable id="markable_5" span="word_43..word_46" world_state="s5"  dialogueamr="assertion"  imageview="images/b4-a19-c8-1522882559576_10.png"  mmax_level="utterance"  order_id="5"  participant="architect" />
+<markable id="markable_4" span="word_28..word_40" world_state="s3"  dialogueamr="command"  imageview="images/b4-a19-c8-1522882559576_7.png"  mmax_level="utterance"  order_id="4"  participant="architect" />
+<markable id="markable_7" span="word_58..word_59" world_state="s12"  dialogueamr="assertion"  imageview="images/b4-a19-c8-1522882559576_18.png"  mmax_level="utterance"  order_id="7"  participant="architect" />
+<markable id="markable_6" span="word_53..word_56" world_state="s11"  dialogueamr="assertion"  imageview="images/b4-a19-c8-1522882559576_17.png"  mmax_level="utterance"  order_id="6"  participant="architect" />
+</markables>

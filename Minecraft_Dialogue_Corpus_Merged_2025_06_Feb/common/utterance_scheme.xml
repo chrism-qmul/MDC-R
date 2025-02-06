@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotationscheme>
+
+<attribute id="comment" name="Comment" type="freetext">
+<value id="comment" name="Comment"/> 
+</attribute>
+
+<!--
+
+<attribute id="imageview" name="imageview" type="freetext">
+<value id="value" name="value"/> 
+</attribute>
+
+-->
+
+<attribute id="participant" name="Participant" type="nominal_list">
+<value id="Architect" name="Architect"/> 
+<value id="Builder" name="Builder"/> 
+</attribute>
+
+<attribute id="dialogueAMR" name="DialogueAMR" type="nominal_list">
+<value id="other" name="other"/> 
+<value id="command" name="command"/> 
+<value id="question" name="question"/> 
+<value id="assertion" name="assertion"/> 
+<value id="offer" name="offer"/> 
+<value id="promise" name="promise"/> 
+<value id="open_option" name="open_option"/> 
+<value id="request" name="request"/> 
+<value id="accept_reject" name="accept_reject"/> 
+<value id="greeting" name="greeting"/> 
+<value id="gratitude" name="gratitude"/> 
+<value id="regret" name="regret"/> 
+<value id="judgment" name="judgment"/> 
+<value id="mistake" name="mistake"/> 
+<value id="hold_floor" name="hold_floor"/> 
+</attribute>
+
+</annotationscheme>

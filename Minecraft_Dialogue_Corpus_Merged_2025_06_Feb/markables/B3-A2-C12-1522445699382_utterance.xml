@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE markables SYSTEM "markables.dtd">
+<markables xmlns="www.eml.org/NameSpaces/utterance">
+<markable id="markable_1" span="word_4..word_5" world_state="s0"  dialogueamr="greeting"  imageview="images/b3-a2-c12-1522445699382_1.png"  mmax_level="utterance"  order_id="1"  participant="builder" />
+<markable id="markable_0" span="word_0..word_3" world_state="s0"  dialogueamr="assertion"  imageview="images/b3-a2-c12-1522445699382_0.png"  mmax_level="utterance"  order_id="0"  participant="builder" />
+<markable id="markable_3" span="word_20..word_24" world_state="s0"  dialogueamr="command"  imageview="images/b3-a2-c12-1522445699382_3.png"  mmax_level="utterance"  order_id="3"  participant="builder" />
+<markable id="markable_2" span="word_8..word_14" world_state="s0"  dialogueamr="question"  imageview="images/b3-a2-c12-1522445699382_2.png"  mmax_level="utterance"  order_id="2"  participant="architect" />
+<markable id="markable_5" span="word_26..word_34" world_state="s0"  dialogueamr="command"  imageview="images/b3-a2-c12-1522445699382_5.png"  mmax_level="utterance"  order_id="5"  participant="architect" />
+<markable id="markable_4" span="word_25" world_state="s0"  dialogueamr="assertion"  imageview="images/b3-a2-c12-1522445699382_4.png"  mmax_level="utterance"  order_id="4"  participant="architect" />
+<markable id="markable_7" span="word_38..word_39" world_state="s1"  dialogueamr="assertion"  imageview="images/b3-a2-c12-1522445699382_8.png"  mmax_level="utterance"  order_id="7"  participant="architect" />
+<markable id="markable_6" span="word_36..word_37" world_state="s1"  dialogueamr="question"  imageview="images/b3-a2-c12-1522445699382_7.png"  mmax_level="utterance"  order_id="6"  participant="builder" />
+<markable id="markable_9" span="word_53..word_77" world_state="s3"  dialogueamr="command"  imageview="images/b3-a2-c12-1522445699382_12.png"  mmax_level="utterance"  order_id="9"  participant="architect" />
+<markable id="markable_8" span="word_40..word_49" world_state="s1"  dialogueamr="command"  imageview="images/b3-a2-c12-1522445699382_9.png"  mmax_level="utterance"  order_id="8"  participant="architect" />
+<markable id="markable_31" span="word_86" dialogueamr="assertion"  mmax_level="utterance"  participant="architect" />
+<markable id="markable_14" span="word_105" world_state="s14"  dialogueamr="assertion"  imageview="images/b3-a2-c12-1522445699382_28.png"  mmax_level="utterance"  order_id="14"  participant="architect" />
+<markable id="markable_13" span="word_94..word_98" world_state="s8"  dialogueamr="question"  imageview="images/b3-a2-c12-1522445699382_21.png"  mmax_level="utterance"  order_id="13"  participant="builder" />
+<markable id="markable_12" span="word_88..word_93" world_state="s8"  dialogueamr="command"  imageview="images/b3-a2-c12-1522445699382_20.png"  mmax_level="utterance"  order_id="12"  participant="architect" />
+<markable id="markable_11" span="word_83..word_85" world_state="s8"  dialogueamr="question"  imageview="images/b3-a2-c12-1522445699382_19.png"  mmax_level="utterance"  order_id="11"  participant="builder" />
+<markable id="markable_29" span="word_52" dialogueamr="assertion"  mmax_level="utterance"  participant="architect" />
+<markable id="markable_17" span="word_138" world_state="s26"  dialogueamr="assertion"  imageview="images/b3-a2-c12-1522445699382_43.png"  mmax_level="utterance"  order_id="17"  participant="architect" />
+<markable id="markable_28" span="word_15..word_18" dialogueamr="assertion"  mmax_level="utterance"  participant="architect" />
+<markable id="markable_16" span="word_135..word_137" world_state="s26"  dialogueamr="question"  imageview="images/b3-a2-c12-1522445699382_42.png"  mmax_level="utterance"  order_id="16"  participant="builder" />
+<markable id="markable_15" span="word_106..word_122" world_state="s14"  dialogueamr="command"  imageview="images/b3-a2-c12-1522445699382_29.png"  mmax_level="utterance"  order_id="15"  participant="architect" />
+<markable id="markable_26" span="word_6" dialogueamr="greeting"  mmax_level="utterance"  participant="architect" />
+</markables>

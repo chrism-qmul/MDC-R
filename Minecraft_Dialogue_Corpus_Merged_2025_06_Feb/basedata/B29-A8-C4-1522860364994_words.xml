@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE words SYSTEM "words.dtd">
+<words>
+  <word id="word_0">Mission</word>
+  <word id="word_1">has</word>
+  <word id="word_2">started</word>
+  <word id="word_3">.</word>
+  <word id="word_4">we</word>
+  <word id="word_5">'re</word>
+  <word id="word_6">building</word>
+  <word id="word_7">a</word>
+  <word id="word_8">flower</word>
+  <word id="word_9">hing</word>
+  <word id="word_10">is</word>
+  <word id="word_11">on</word>
+  <word id="word_12">the</word>
+  <word id="word_13">ground</word>
+  <word id="word_14">*</word>
+  <word id="word_15">everything</word>
+  <word id="word_16">start</word>
+  <word id="word_17">with</word>
+  <word id="word_18">four</word>
+  <word id="word_19">green</word>
+  <word id="word_20">blocks</word>
+  <word id="word_21">in</word>
+  <word id="word_22">a</word>
+  <word id="word_23">line</word>
+  <word meta="True" id="word_24">added green@1,0,0</word>
+  <word meta="True" id="word_25">added green@0,0,0</word>
+  <word meta="True" id="word_26">added green@-1,0,0</word>
+  <word id="word_27">now</word>
+  <word id="word_28">on</word>
+  <word id="word_29">the</word>
+  <word id="word_30">second</word>
+  <word id="word_31">green</word>
+  <word id="word_32">block</word>
+  <word id="word_33">from</word>
+  <word id="word_34">your</word>
+  <word id="word_35">left</word>
+  <word id="word_36">add</word>
+  <word id="word_37">two</word>
+  <word id="word_38">green</word>
+  <word id="word_39">blkocks</word>
+  <word id="word_40">on</word>
+  <word id="word_41">either</word>
+  <word id="word_42">side</word>
+  <word meta="True" id="word_43">added green@-2,0,0</word>
+  <word meta="True" id="word_44">added green@-1,0,1</word>
+  <word meta="True" id="word_45">added green@-1,0,2</word>
+  <word meta="True" id="word_46">added green@-1,0,-1</word>
+  <word id="word_47">actually</word>
+  <word id="word_48">just</word>
+  <word id="word_49">one</word>
+  <word id="word_50">block</word>
+  <word id="word_51">on</word>
+  <word id="word_52">either</word>
+  <word id="word_53">side</word>
+  <word meta="True" id="word_54">added green@-1,0,-2</word>
+  <word meta="True" id="word_55">removed green@-1,0,-2</word>
+  <word id="word_56">now</word>
+  <word id="word_57">one</word>
+  <word id="word_58">on</word>
+  <word id="word_59">a</word>
+  <word id="word_60">diagonal</word>
+  <word id="word_61">to</word>
+  <word id="word_62">the</word>
+  <word id="word_63">ones</word>
+  <word id="word_64">you</word>
+  <word id="word_65">just</word>
+  <word id="word_66">placed</word>
+  <word meta="True" id="word_67">removed green@-1,0,2</word>
+  <word id="word_68">yeah</word>
+  <word meta="True" id="word_69">added green@0,0,-2</word>
+  <word id="word_70">okay</word>
+  <word id="word_71">now</word>
+  <word id="word_72">we</word>
+  <word id="word_73">'ll</word>
+  <word id="word_74">do</word>
+  <word id="word_75">the</word>
+  <word id="word_76">flower</word>
+  <word meta="True" id="word_77">added green@0,0,2</word>
+  <word id="word_78">it</word>
+  <word id="word_79">'s</word>
+  <word id="word_80">a</word>
+  <word id="word_81">3X3</word>
+  <word id="word_82">griod</word>
+  <word id="word_83">grid</word>
+  <word id="word_84">*</word>
+  <word id="word_85">with</word>
+  <word id="word_86">a</word>
+  <word id="word_87">red</word>
+  <word id="word_88">block</word>
+  <word id="word_89">in</word>
+  <word id="word_90">the</word>
+  <word id="word_91">center</word>
+  <word id="word_92">now</word>
+  <word id="word_93">yellow</word>
+  <word id="word_94">blocks</word>
+  <word id="word_95">on</word>
+  <word id="word_96">the</word>
+  <word id="word_97">sides</word>
+  <word id="word_98">and</word>
+  <word id="word_99">orange</word>
+  <word id="word_100">blocks</word>
+  <word id="word_101">on</word>
+  <word id="word_102">the</word>
+  <word id="word_103">diagonal</word>
+  <word meta="True" id="word_104">added red@3,0,0</word>
+  <word meta="True" id="word_105">added yellow@3,0,-1</word>
+  <word meta="True" id="word_106">added yellow@4,0,0</word>
+  <word meta="True" id="word_107">added yellow@3,0,1</word>
+  <word meta="True" id="word_108">added yellow@2,0,0</word>
+  <word meta="True" id="word_109">added orange@2,0,1</word>
+  <word meta="True" id="word_110">added orange@4,0,1</word>
+  <word meta="True" id="word_111">added orange@4,0,-1</word>
+  <word id="word_112">okay</word>
+  <word id="word_113">were</word>
+  <word id="word_114">done</word>
+  <word meta="True" id="word_115">added orange@2,0,-1</word>
+</words>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE markables SYSTEM "markables.dtd">
+<markables xmlns="www.eml.org/NameSpaces/utterance">
+<markable id="markable_32" span="word_269..word_281" world_state="s41"  dialogueamr="assertion"  imageview="images/b36-a38-c66-1524262976017_72.png"  mmax_level="utterance"  order_id="32"  participant="architect" />
+<markable id="markable_31" span="word_268" world_state="s41"  dialogueamr="assertion"  imageview="images/b36-a38-c66-1524262976017_71.png"  mmax_level="utterance"  order_id="31"  participant="builder" />
+<markable id="markable_30" span="word_266" world_state="s40"  dialogueamr="assertion"  imageview="images/b36-a38-c66-1524262976017_70.png"  mmax_level="utterance"  order_id="30"  participant="architect" />
+<markable id="markable_36" span="word_308" world_state="s41"  dialogueamr="assertion"  imageview="images/b36-a38-c66-1524262976017_77.png"  mmax_level="utterance"  order_id="36"  participant="builder" />
+<markable id="markable_35" span="word_284..word_307" world_state="s41"  dialogueamr="assertion"  imageview="images/b36-a38-c66-1524262976017_76.png"  mmax_level="utterance"  order_id="35"  participant="architect" />
+<markable id="markable_34" span="word_283" world_state="s41"  dialogueamr="assertion"  imageview="images/b36-a38-c66-1524262976017_74.png"  mmax_level="utterance"  order_id="34"  participant="builder" />
+<markable id="markable_33" span="word_282" world_state="s41"  dialogueamr="other"  imageview="images/b36-a38-c66-1524262976017_73.png"  mmax_level="utterance"  order_id="33"  participant="builder" />
+<markable id="markable_39" span="word_347" world_state="s59"  dialogueamr="assertion"  imageview="images/b36-a38-c66-1524262976017_97.png"  mmax_level="utterance"  order_id="39"  participant="builder" />
+<markable id="markable_38" span="word_330..word_346" world_state="s59"  dialogueamr="assertion"  imageview="images/b36-a38-c66-1524262976017_96.png"  mmax_level="utterance"  order_id="38"  participant="architect" />
+<markable id="markable_37" span="word_326..word_328" world_state="s58"  dialogueamr="question"  imageview="images/b36-a38-c66-1524262976017_95.png"  mmax_level="utterance"  order_id="37"  participant="builder" />
+<markable id="markable_19" span="word_179..word_180" world_state="s28"  dialogueamr="question"  imageview="images/b36-a38-c66-1524262976017_47.png"  mmax_level="utterance"  order_id="19"  participant="builder" />
+<markable id="markable_21" span="word_199" world_state="s30"  dialogueamr="other"  imageview="images/b36-a38-c66-1524262976017_51.png"  mmax_level="utterance"  order_id="21"  participant="builder" />
+<markable id="markable_20" span="word_182..word_197" world_state="s29"  dialogueamr="regret"  imageview="images/b36-a38-c66-1524262976017_49.png"  mmax_level="utterance"  order_id="20"  participant="architect" />
+<markable id="markable_25" span="word_233..word_238" world_state="s38"  dialogueamr="mistake"  imageview="images/b36-a38-c66-1524262976017_63.png"  mmax_level="utterance"  order_id="25"  participant="architect" />
+<markable id="markable_24" span="word_230..word_232" world_state="s38"  dialogueamr="question"  imageview="images/b36-a38-c66-1524262976017_62.png"  mmax_level="utterance"  order_id="24"  participant="builder" />
+<markable id="markable_23" span="word_208..word_227" world_state="s36"  dialogueamr="regret"  imageview="images/b36-a38-c66-1524262976017_58.png"  mmax_level="utterance"  order_id="23"  participant="architect" />
+<markable id="markable_22" span="word_205..word_206" world_state="s35"  dialogueamr="question"  imageview="images/b36-a38-c66-1524262976017_57.png"  mmax_level="utterance"  order_id="22"  participant="builder" />
+<markable id="markable_29" span="word_254..word_263" world_state="s38"  dialogueamr="assertion"  imageview="images/b36-a38-c66-1524262976017_67.png"  mmax_level="utterance"  order_id="29"  participant="architect" />
+<markable id="markable_28" span="word_244..word_253" world_state="s38"  dialogueamr="assertion"  imageview="images/b36-a38-c66-1524262976017_66.png"  mmax_level="utterance"  order_id="28"  participant="architect" />
+<markable id="markable_27" span="word_242..word_243" world_state="s38"  dialogueamr="question"  imageview="images/b36-a38-c66-1524262976017_65.png"  mmax_level="utterance"  order_id="27"  participant="builder" />
+<markable id="markable_26" span="word_239..word_241" world_state="s38"  dialogueamr="assertion"  imageview="images/b36-a38-c66-1524262976017_64.png"  mmax_level="utterance"  order_id="26"  participant="builder" />
+<markable id="markable_1" span="word_4" world_state="s0"  dialogueamr="greeting"  imageview="images/b36-a38-c66-1524262976017_1.png"  mmax_level="utterance"  order_id="1"  participant="builder" />
+<markable id="markable_0" span="word_0..word_3" world_state="s0"  dialogueamr="assertion"  imageview="images/b36-a38-c66-1524262976017_0.png"  mmax_level="utterance"  order_id="0"  participant="builder" />
+<markable id="markable_3" span="word_24..word_27" world_state="s0"  dialogueamr="assertion"  imageview="images/b36-a38-c66-1524262976017_3.png"  mmax_level="utterance"  order_id="3"  participant="builder" />
+<markable id="markable_2" span="word_7..word_23" world_state="s0"  dialogueamr="assertion"  imageview="images/b36-a38-c66-1524262976017_2.png"  mmax_level="utterance"  order_id="2"  participant="architect" />
+<markable id="markable_5" span="word_67..word_69" world_state="s5"  dialogueamr="question"  imageview="images/b36-a38-c66-1524262976017_10.png"  mmax_level="utterance"  order_id="5"  participant="builder" />
+<markable id="markable_4" span="word_30..word_61" world_state="s0"  dialogueamr="command"  imageview="images/b36-a38-c66-1524262976017_4.png"  mmax_level="utterance"  order_id="4"  participant="architect" />
+<markable id="markable_7" span="word_86..word_91" world_state="s14"  dialogueamr="assertion"  imageview="images/b36-a38-c66-1524262976017_21.png"  mmax_level="utterance"  order_id="7"  participant="architect" />
+<markable id="markable_6" span="word_75..word_81" world_state="s10"  dialogueamr="mistake"  imageview="images/b36-a38-c66-1524262976017_16.png"  mmax_level="utterance"  order_id="6"  participant="builder" />
+<markable id="markable_50" span="word_450..word_452" world_state="s85"  dialogueamr="question"  imageview="images/b36-a38-c66-1524262976017_135.png"  mmax_level="utterance"  order_id="50"  participant="builder" />
+<markable id="markable_10" span="word_105" world_state="s15"  dialogueamr="assertion"  imageview="images/b36-a38-c66-1524262976017_24.png"  mmax_level="utterance"  order_id="10"  participant="builder" />
+<markable id="markable_52" span="word_461" world_state="s86"  dialogueamr="assertion"  imageview="images/b36-a38-c66-1524262976017_137.png"  mmax_level="utterance"  order_id="52"  participant="builder" />
+<markable id="markable_51" span="word_454..word_460" world_state="s86"  dialogueamr="assertion"  imageview="images/b36-a38-c66-1524262976017_136.png"  mmax_level="utterance"  order_id="51"  participant="architect" />
+<markable id="markable_14" span="word_128..word_136" world_state="s28"  dialogueamr="assertion"  imageview="images/b36-a38-c66-1524262976017_42.png"  mmax_level="utterance"  order_id="14"  participant="architect" />
+<markable id="markable_13" span="word_126..word_127" world_state="s28"  dialogueamr="assertion"  imageview="images/b36-a38-c66-1524262976017_41.png"  mmax_level="utterance"  order_id="13"  participant="architect" />
+<markable id="markable_12" span="word_123..word_125" world_state="s28"  dialogueamr="question"  imageview="images/b36-a38-c66-1524262976017_40.png"  mmax_level="utterance"  order_id="12"  participant="builder" />
+<markable id="markable_11" span="word_106..word_109" world_state="s15"  dialogueamr="assertion"  imageview="images/b36-a38-c66-1524262976017_25.png"  mmax_level="utterance"  order_id="11"  participant="architect" />
+<markable id="markable_18" span="word_164..word_178" world_state="s28"  dialogueamr="assertion"  imageview="images/b36-a38-c66-1524262976017_46.png"  mmax_level="utterance"  order_id="18"  participant="architect" />
+<markable id="markable_17" span="word_162..word_163" world_state="s28"  dialogueamr="question"  imageview="images/b36-a38-c66-1524262976017_45.png"  mmax_level="utterance"  order_id="17"  participant="builder" />
+<markable id="markable_16" span="word_138..word_161" world_state="s28"  dialogueamr="question"  imageview="images/b36-a38-c66-1524262976017_44.png"  mmax_level="utterance"  order_id="16"  participant="architect" />
+<markable id="markable_15" span="word_137" world_state="s28"  dialogueamr="assertion"  imageview="images/b36-a38-c66-1524262976017_43.png"  mmax_level="utterance"  order_id="15"  participant="builder" />
+<markable id="markable_9" span="word_94..word_104" world_state="s15"  dialogueamr="question"  imageview="images/b36-a38-c66-1524262976017_23.png"  mmax_level="utterance"  order_id="9"  participant="architect" />
+<markable id="markable_8" span="word_93" world_state="s15"  dialogueamr="assertion"  imageview="images/b36-a38-c66-1524262976017_22.png"  mmax_level="utterance"  order_id="8"  participant="builder" />
+<markable id="markable_87" span="word_28" dialogueamr="assertion"  mmax_level="utterance"  participant="architect" />
+<markable id="markable_42" span="word_365..word_397" world_state="s64"  dialogueamr="assertion"  imageview="images/b36-a38-c66-1524262976017_106.png"  mmax_level="utterance"  order_id="42"  participant="architect" />
+<markable id="markable_86" span="word_5" dialogueamr="greeting"  mmax_level="utterance"  participant="architect" />
+<markable id="markable_41" span="word_364" world_state="s64"  dialogueamr="assertion"  imageview="images/b36-a38-c66-1524262976017_105.png"  mmax_level="utterance"  order_id="41"  participant="builder" />
+<markable id="markable_40" span="word_353..word_363" world_state="s64"  dialogueamr="assertion"  imageview="images/b36-a38-c66-1524262976017_104.png"  mmax_level="utterance"  order_id="40"  participant="architect" />
+<markable id="markable_47" span="word_419..word_420" world_state="s67"  dialogueamr="question"  imageview="images/b36-a38-c66-1524262976017_114.png"  mmax_level="utterance"  order_id="47"  participant="builder" />
+<markable id="markable_46" span="word_415..word_417" world_state="s66"  dialogueamr="assertion"  imageview="images/b36-a38-c66-1524262976017_112.png"  mmax_level="utterance"  order_id="46"  participant="builder" />
+<markable id="markable_45" span="word_401..word_413" world_state="s65"  dialogueamr="regret"  imageview="images/b36-a38-c66-1524262976017_109.png"  mmax_level="utterance"  order_id="45"  participant="architect" />
+<markable id="markable_44" span="word_398..word_399" world_state="s64"  dialogueamr="question"  imageview="images/b36-a38-c66-1524262976017_108.png"  mmax_level="utterance"  order_id="44"  participant="builder" />
+<markable id="markable_49" span="word_431" world_state="s67"  dialogueamr="assertion"  imageview="images/b36-a38-c66-1524262976017_116.png"  mmax_level="utterance"  order_id="49"  participant="builder" />
+<markable id="markable_48" span="word_421..word_430" world_state="s67"  dialogueamr="assertion"  imageview="images/b36-a38-c66-1524262976017_115.png"  mmax_level="utterance"  order_id="48"  participant="architect" />
+</markables>

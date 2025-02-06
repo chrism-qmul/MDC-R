@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE words SYSTEM "words.dtd">
+<words>
+  <word id="word_0">Mission</word>
+  <word id="word_1">has</word>
+  <word id="word_2">started</word>
+  <word id="word_3">.</word>
+  <word id="word_4">okay</word>
+  <word id="word_5">,</word>
+  <word id="word_6">place</word>
+  <word id="word_7">four</word>
+  <word id="word_8">orange</word>
+  <word id="word_9">blocks</word>
+  <word id="word_10">at</word>
+  <word id="word_11">the</word>
+  <word id="word_12">corners</word>
+  <word id="word_13">of</word>
+  <word id="word_14">a</word>
+  <word id="word_15">3X3</word>
+  <word id="word_16">grid</word>
+  <word meta="True" id="word_17">added orange@1,0,2</word>
+  <word meta="True" id="word_18">added orange@1,0,0</word>
+  <word id="word_19">on</word>
+  <word id="word_20">the</word>
+  <word id="word_21">ground</word>
+  <word meta="True" id="word_22">added orange@-1,0,0</word>
+  <word meta="True" id="word_23">added orange@-1,0,2</word>
+  <word id="word_24">now</word>
+  <word id="word_25">above</word>
+  <word id="word_26">that</word>
+  <word id="word_27">place</word>
+  <word id="word_28">red</word>
+  <word id="word_29">blocks</word>
+  <word id="word_30">on</word>
+  <word id="word_31">the</word>
+  <word id="word_32">grid</word>
+  <word id="word_33">above</word>
+  <word id="word_34">?</word>
+  <word id="word_35">yeah</word>
+  <word id="word_36">,</word>
+  <word id="word_37">like</word>
+  <word id="word_38">a</word>
+  <word id="word_39">line</word>
+  <word id="word_40">above</word>
+  <word id="word_41">the</word>
+  <word id="word_42">orange</word>
+  <word id="word_43">blocks</word>
+  <word id="word_44">you</word>
+  <word id="word_45">just</word>
+  <word id="word_46">placed</word>
+  <word meta="True" id="word_47">removed orange@-1,0,2</word>
+  <word meta="True" id="word_48">added orange@-1,0,2</word>
+  <word meta="True" id="word_49">removed orange@-1,0,2</word>
+  <word meta="True" id="word_50">added orange@-1,0,2</word>
+  <word meta="True" id="word_51">added red@-1,1,2</word>
+  <word meta="True" id="word_52">added red@-1,1,0</word>
+  <word id="word_53">yes</word>
+  <word meta="True" id="word_54">added red@-1,1,1</word>
+  <word meta="True" id="word_55">added red@0,1,2</word>
+  <word meta="True" id="word_56">added red@1,1,2</word>
+  <word meta="True" id="word_57">added red@0,1,1</word>
+  <word meta="True" id="word_58">added red@0,1,0</word>
+  <word meta="True" id="word_59">added red@1,1,0</word>
+  <word meta="True" id="word_60">added red@1,1,1</word>
+  <word id="word_61">no</word>
+  <word id="word_62">center</word>
+  <word id="word_63">block</word>
+  <word id="word_64">sorry</word>
+  <word meta="True" id="word_65">removed red@0,1,1</word>
+  <word id="word_66">yes</word>
+</words>

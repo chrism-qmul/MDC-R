@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE markables SYSTEM "markables.dtd">
+<markables xmlns="www.eml.org/NameSpaces/action">
+<markable id="markable_1" span="word_24" world_state="s2"  imageview="images/b20-a30-c85-1523457382936_4.png"  mmax_level="action"  order_id="1" />
+<markable id="markable_0" span="word_23" world_state="s1"  imageview="images/b20-a30-c85-1523457382936_3.png"  mmax_level="action"  order_id="0" />
+<markable id="markable_3" span="word_26" world_state="s4"  imageview="images/b20-a30-c85-1523457382936_6.png"  mmax_level="action"  order_id="3" />
+<markable id="markable_2" span="word_25" world_state="s3"  imageview="images/b20-a30-c85-1523457382936_5.png"  mmax_level="action"  order_id="2" />
+<markable id="markable_5" span="word_38" world_state="s6"  imageview="images/b20-a30-c85-1523457382936_9.png"  mmax_level="action"  order_id="5" />
+<markable id="markable_4" span="word_37" world_state="s5"  imageview="images/b20-a30-c85-1523457382936_7.png"  mmax_level="action"  order_id="4" />
+<markable id="markable_7" span="word_63" world_state="s8"  imageview="images/b20-a30-c85-1523457382936_14.png"  mmax_level="action"  order_id="7" />
+<markable id="markable_6" span="word_48" world_state="s7"  imageview="images/b20-a30-c85-1523457382936_12.png"  mmax_level="action"  order_id="6" />
+<markable id="markable_9" span="word_65" world_state="s10"  imageview="images/b20-a30-c85-1523457382936_16.png"  mmax_level="action"  order_id="9" />
+<markable id="markable_8" span="word_64" world_state="s9"  imageview="images/b20-a30-c85-1523457382936_15.png"  mmax_level="action"  order_id="8" />
+<markable id="markable_10" span="word_66" world_state="s11"  imageview="images/b20-a30-c85-1523457382936_17.png"  mmax_level="action"  order_id="10" />
+<markable id="markable_14" span="word_132" world_state="s15"  imageview="images/b20-a30-c85-1523457382936_30.png"  mmax_level="action"  order_id="14" />
+<markable id="markable_13" span="word_127" world_state="s14"  imageview="images/b20-a30-c85-1523457382936_27.png"  mmax_level="action"  order_id="13" />
+<markable id="markable_12" span="word_103" world_state="s13"  imageview="images/b20-a30-c85-1523457382936_25.png"  mmax_level="action"  order_id="12" />
+<markable id="markable_11" span="word_102" world_state="s12"  imageview="images/b20-a30-c85-1523457382936_24.png"  mmax_level="action"  order_id="11" />
+</markables>

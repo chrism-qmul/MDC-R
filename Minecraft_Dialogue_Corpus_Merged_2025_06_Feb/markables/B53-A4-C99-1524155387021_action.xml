@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE markables SYSTEM "markables.dtd">
+<markables xmlns="www.eml.org/NameSpaces/action">
+  <markable id="markable_0" mmax_level="action" order_id="0" span="word_28" imageview="images/B53-A4-C99-1524155387021_4.png" world_state="s1"/>
+  <markable id="markable_1" mmax_level="action" order_id="1" span="word_29" imageview="images/B53-A4-C99-1524155387021_5.png" world_state="s2"/>
+  <markable id="markable_2" mmax_level="action" order_id="2" span="word_30" imageview="images/B53-A4-C99-1524155387021_6.png" world_state="s3"/>
+  <markable id="markable_3" mmax_level="action" order_id="3" span="word_31" imageview="images/B53-A4-C99-1524155387021_7.png" world_state="s4"/>
+  <markable id="markable_4" mmax_level="action" order_id="4" span="word_32" imageview="images/B53-A4-C99-1524155387021_8.png" world_state="s5"/>
+  <markable id="markable_5" mmax_level="action" order_id="5" span="word_33" imageview="images/B53-A4-C99-1524155387021_9.png" world_state="s6"/>
+  <markable id="markable_6" mmax_level="action" order_id="6" span="word_34" imageview="images/B53-A4-C99-1524155387021_10.png" world_state="s7"/>
+  <markable id="markable_7" mmax_level="action" order_id="7" span="word_35" imageview="images/B53-A4-C99-1524155387021_11.png" world_state="s8"/>
+  <markable id="markable_8" mmax_level="action" order_id="8" span="word_36" imageview="images/B53-A4-C99-1524155387021_12.png" world_state="s9"/>
+  <markable id="markable_9" mmax_level="action" order_id="9" span="word_50" imageview="images/B53-A4-C99-1524155387021_13.png" world_state="s10"/>
+  <markable id="markable_10" mmax_level="action" order_id="10" span="word_78" imageview="images/B53-A4-C99-1524155387021_20.png" world_state="s11"/>
+  <markable id="markable_11" mmax_level="action" order_id="11" span="word_79" imageview="images/B53-A4-C99-1524155387021_21.png" world_state="s12"/>
+  <markable id="markable_12" mmax_level="action" order_id="12" span="word_80" imageview="images/B53-A4-C99-1524155387021_22.png" world_state="s13"/>
+  <markable id="markable_13" mmax_level="action" order_id="13" span="word_81" imageview="images/B53-A4-C99-1524155387021_23.png" world_state="s14"/>
+  <markable id="markable_14" mmax_level="action" order_id="14" span="word_84" imageview="images/B53-A4-C99-1524155387021_24.png" world_state="s15"/>
+  <markable id="markable_15" mmax_level="action" order_id="15" span="word_85" imageview="images/B53-A4-C99-1524155387021_25.png" world_state="s16"/>
+  <markable id="markable_16" mmax_level="action" order_id="16" span="word_86" imageview="images/B53-A4-C99-1524155387021_26.png" world_state="s17"/>
+  <markable id="markable_17" mmax_level="action" order_id="17" span="word_87" imageview="images/B53-A4-C99-1524155387021_27.png" world_state="s18"/>
+  <markable id="markable_18" mmax_level="action" order_id="18" span="word_88" imageview="images/B53-A4-C99-1524155387021_28.png" world_state="s19"/>
+  <markable id="markable_19" mmax_level="action" order_id="19" span="word_89" imageview="images/B53-A4-C99-1524155387021_29.png" world_state="s20"/>
+  <markable id="markable_20" mmax_level="action" order_id="20" span="word_118" imageview="images/B53-A4-C99-1524155387021_32.png" world_state="s21"/>
+  <markable id="markable_21" mmax_level="action" order_id="21" span="word_119" imageview="images/B53-A4-C99-1524155387021_33.png" world_state="s22"/>
+  <markable id="markable_22" mmax_level="action" order_id="22" span="word_120" imageview="images/B53-A4-C99-1524155387021_34.png" world_state="s23"/>
+  <markable id="markable_23" mmax_level="action" order_id="23" span="word_127" imageview="images/B53-A4-C99-1524155387021_35.png" world_state="s24"/>
+  <markable id="markable_24" mmax_level="action" order_id="24" span="word_143" imageview="images/B53-A4-C99-1524155387021_40.png" world_state="s25"/>
+  <markable id="markable_25" mmax_level="action" order_id="25" span="word_152" imageview="images/B53-A4-C99-1524155387021_42.png" world_state="s26"/>
+  <markable id="markable_26" mmax_level="action" order_id="26" span="word_162" imageview="images/B53-A4-C99-1524155387021_45.png" world_state="s27"/>
+  <markable id="markable_27" mmax_level="action" order_id="27" span="word_225" imageview="images/B53-A4-C99-1524155387021_54.png" world_state="s28"/>
+  <markable id="markable_28" mmax_level="action" order_id="28" span="word_232" imageview="images/B53-A4-C99-1524155387021_57.png" world_state="s29"/>
+  <markable id="markable_29" mmax_level="action" order_id="29" span="word_233" imageview="images/B53-A4-C99-1524155387021_58.png" world_state="s30"/>
+  <markable id="markable_30" mmax_level="action" order_id="30" span="word_252" imageview="images/B53-A4-C99-1524155387021_61.png" world_state="s31"/>
+  <markable id="markable_31" mmax_level="action" order_id="31" span="word_253" imageview="images/B53-A4-C99-1524155387021_62.png" world_state="s32"/>
+  <markable id="markable_32" mmax_level="action" order_id="32" span="word_254" imageview="images/B53-A4-C99-1524155387021_63.png" world_state="s33"/>
+  <markable id="markable_33" mmax_level="action" order_id="33" span="word_255" imageview="images/B53-A4-C99-1524155387021_64.png" world_state="s34"/>
+  <markable id="markable_34" mmax_level="action" order_id="34" span="word_256" imageview="images/B53-A4-C99-1524155387021_65.png" world_state="s35"/>
+  <markable id="markable_35" mmax_level="action" order_id="35" span="word_257" imageview="images/B53-A4-C99-1524155387021_66.png" world_state="s36"/>
+  <markable id="markable_36" mmax_level="action" order_id="36" span="word_258" imageview="images/B53-A4-C99-1524155387021_67.png" world_state="s37"/>
+  <markable id="markable_37" mmax_level="action" order_id="37" span="word_265" imageview="images/B53-A4-C99-1524155387021_69.png" world_state="s38"/>
+  <markable id="markable_38" mmax_level="action" order_id="38" span="word_266" imageview="images/B53-A4-C99-1524155387021_70.png" world_state="s39"/>
+  <markable id="markable_39" mmax_level="action" order_id="39" span="word_267" imageview="images/B53-A4-C99-1524155387021_71.png" world_state="s40"/>
+  <markable id="markable_40" mmax_level="action" order_id="40" span="word_268" imageview="images/B53-A4-C99-1524155387021_72.png" world_state="s41"/>
+  <markable id="markable_41" mmax_level="action" order_id="41" span="word_269" imageview="images/B53-A4-C99-1524155387021_73.png" world_state="s42"/>
+  <markable id="markable_42" mmax_level="action" order_id="42" span="word_287" imageview="images/B53-A4-C99-1524155387021_77.png" world_state="s43"/>
+  <markable id="markable_43" mmax_level="action" order_id="43" span="word_291" imageview="images/B53-A4-C99-1524155387021_79.png" world_state="s44"/>
+  <markable id="markable_44" mmax_level="action" order_id="44" span="word_292" imageview="images/B53-A4-C99-1524155387021_80.png" world_state="s45"/>
+  <markable id="markable_45" mmax_level="action" order_id="45" span="word_300" imageview="images/B53-A4-C99-1524155387021_82.png" world_state="s46"/>
+</markables>
