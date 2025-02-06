@@ -4,7 +4,7 @@
 There is a folder now with all the data built into the xmls.
 - no extra downloads required everything is self-contained in this repo
 - images are updated ("basedata/images" contain regular images, "basedata/images-blank" contain images with ids ommitted)
-- phrase.xml files in the "markables" folder contain an updated "object" field which is a string that can be evaluated in python (unless it's a special markable like "architect") and will contain a list of tuples of the form:
+- phrase.xml files in the "markables" folder contain an updated "object" field which is a string that can be evaluated in python (unless it's a special markable like "architect") and will contain a list of blocks of the markable, each is a tuple:
    (id, (bbox_top, bbox_bottom, bbox_left, bbox_right), (r_coord, g_coord, b_coord), color, img_path) 
 - in the markables folder there are also subfolders with different versions of the object field
     - phrases-full contain xmls with tuples as described above
