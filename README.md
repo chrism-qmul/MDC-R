@@ -2,6 +2,7 @@
 
 ### [UPDATE Feb 6 2025]
 There is a folder now with all the data built into the xmls.
+- no extra downloads required everything is self-contained in this repo
 - images are updated ("basedata/images" contain regular images, "basedata/images-blank" contain images with ids ommitted)
 - phrase.xml files in the "markables" folder contain an updated "object" field which is a string that can be evaluated in python and will contain a list of tuples of the form:
    (id, (bbox_top, bbox_bottom, bbox_left, bbox_right), (r_coord, g_coord, b_coord), color, img_path)
@@ -10,9 +11,6 @@ There is a folder now with all the data built into the xmls.
     - phrases-idonly contain xmls where only the block id's are listed (e.g., object = "[('a1'), ('b2')]")
     - phrases-bbonly contain xmls where only bounding boxes are listed (e.g., object = "[((50, 150, 200, 250)), ((75, 100, 50, 200))]")
       when you decide which one you want to use just copy those phrase.xml files over those already present in the "markables" folder (for example, "cp markables/phrases-idonly/*.xml markables/"), the default variant in markables is the "phrases-full"
-
-
-
 
 
 ### [Old instructions below]
