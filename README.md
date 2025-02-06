@@ -10,7 +10,7 @@ There is a folder now with all the data built into the xmls.
     - phrases-full contain xmls with tuples as described above
     - phrases-idonly contain xmls where only the block id's are listed (e.g., object = "[('a1'), ('b2')]")
     - phrases-bbonly contain xmls where only bounding boxes are listed (e.g., object = "[((50, 150, 200, 250)), ((75, 100, 50, 200))]")
-      when you decide which one you want to use just copy those phrase.xml files over those already present in the "markables" folder (for example, "cp markables/phrases-idonly/*.xml markables/"), the default variant in markables is the "phrases-full"
+      depending on which one you want to use just copy those phrase.xml files over those already present in the "markables" folder (for example, "cp markables/phrases-idonly/*.xml markables/"), the default variant in markables is the "phrases-full"
 
 
 ### [Old instructions below]
