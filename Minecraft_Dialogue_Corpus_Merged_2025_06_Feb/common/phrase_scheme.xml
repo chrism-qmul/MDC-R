@@ -75,7 +75,7 @@
 
 <attribute id="reference" name="Reference" type="nominal_button">
 <value id="no_mark" name="unmarked"/> 
-<value id="new_obj" name="new" next="category,object,related_object,generic,ambig_choice"/> 
+<value id="new_obj" name="new" next="category,object,objectFull,related_object,generic,ambig_choice"/> 
 <value id="old_obj" name="old" next="category,ref_type,related_object,generic,ambig_choice"/> 
 <value id="non_ref" name="non_referring" next="non_ref_type"/>  
 <value id="undef_ref" name="undef_reference"/> 
@@ -135,7 +135,7 @@
 <!-- Anaphoric information -->
 
 <attribute id="ref_type" name="Ref_type" type="nominal_button">
-<value id="phrase" name="phrase" next="object,phrase_ante"/> 
+<value id="phrase" name="phrase" next="object,objectFull,phrase_ante"/> 
 <value id="segment" name="segment" next="segment_ante"/> 
 <value id="ellipsis" name="ellipsis" next="ellipsis_ante"/>
 </attribute>
@@ -254,13 +254,9 @@ remove_pointer_to_markable_text="Remove related marking from this phrase">
 <value id="object" name="Object"/> 
 </attribute>
 
-<!--
-
-<attribute id="objectAdditional" name="ObjectAdditional" type="freetext">
-<value id="objectAdditional" name="ObjectAdditional"/> 
+<attribute id="objectFull" name="ObjectFull" type="freetext">
+<value id="objectFull" name="ObjectFull"/> 
 </attribute>
-
--->
 
 <!-- Ambiguity -->
 
