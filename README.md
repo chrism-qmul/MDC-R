@@ -1,5 +1,14 @@
 ## MC corpus with revised ids and bounding boxes
 
+### [UPDATE Feb 7 2025]
+- format slightly changed
+   - two versions of the images --> with new ids (basedata/images) or without anything on the block (basedata/images-blank)
+   - two versions of the phrase xml --> with id or bbox in the "object" field (markables/phrases-obj-id and markables/phrases-obj-bbox folders, respectively), depending on which one you want to use just copy those phrase.xml files over those already present in the "markables" folder (for example, "cp markables/phrases-obj-id/*.xml markables/"), the default variant in markables is the "phrases-obj-id"
+        - rest of the markable info is in the "objectFull" field, as JSON, basically a string like "architect" or a list of tuples (one for each block of the markable), in that case each tuple is: (block_id, (bbox_top, bbox_bottom, bbox_left, bbox_right), (r_coord, g_coord, b_coord), color, img_path) 
+          
+TODO: forgot to make img_path not repeat across blocks, it's redundant but does make it a bit easier to explain ("there is a list of blocks where each element is (...)" sounds simpler than "there is an (img_name, block_list) tuple where each element of block_list is again a tuple like (...)", not sure
+
+
 ### [UPDATE Feb 6 2025]
 There is a folder now with all the data built into the xmls.
 - no extra downloads required everything is self-contained in this repo
